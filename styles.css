@@ -1,0 +1,39 @@
+body{
+    background-color: red;
+}
+.img1{
+    height: 400px;
+    width: 250px;
+margin-left: 60%;
+}
+.img2{
+    height: 400px;
+    width: 250px;
+    margin-left: 80%;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.btn{
+    margin-left: 700%;
+}
+.rock{
+    height: 300px;
+    width: 400px;
+    margin-left: 10%;
+}
+.rock2{
+    height: 300px;
+    width: 400px;
+    margin-left: 30%;
+}
+.player1{
+   text-align: left;
+}
+.player2{
+    text-align: right;
+}
+.h2{
+    text-align: right;
+}
